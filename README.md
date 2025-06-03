@@ -4,7 +4,7 @@ Protobot Updated is a newer updated version of the original project started by D
 
 ## Install
 
-Download zip and extract just liek the original one
+Download release from : https://github.com/jedi-dino/protobot-updated/releases/tag/Beta
 
 DOES NOT WORK ON WINDOWS 10 
 
@@ -14,4 +14,6 @@ Thanks
 
 ## Known bugs
 
-current known bugs are copy and paste doesnt work
+Copy and paste does not work
+
+When closing the parts list it will then refuse to reopen, in order to fix this please save your project and restart application
